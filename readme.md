@@ -3,8 +3,7 @@
 A simple and powerful unit converter built with **Streamlit**. Convert **Length, Mass, and Temperature** instantly with a clean and intuitive interface.
 
 ## 🌐 Live Demo
-[Check out the live app here!](#)  
-_(Replace `#` with the actual deployed link)_
+[Check out the live app here!](https://unit-converter-zeejay.streamlit.app/)  
 
 ---
 
@@ -18,8 +17,6 @@ _(Replace `#` with the actual deployed link)_
 
 ### 📊 Conversion Result
 ![Unit Converter Screenshot 3](images/preview3.png)
-
-_(Place your actual images in the `images` folder and update paths accordingly)_
 
 ---
 
